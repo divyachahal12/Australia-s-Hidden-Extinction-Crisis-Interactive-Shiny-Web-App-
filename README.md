@@ -1,7 +1,7 @@
 🦠 Australia's Hidden Extinction Crisis (Interactive Shiny Web App)
 An end-to-end interactive data journalism and analytics application investigating the true drivers behind Australia's threatened species decline.
 
-🔗 **Live Application:** [View the Live Dashboard on ](https://divyachahal.shinyapps.io/s4119450_australia_extinction_crisis/)
+🔗 **Live Application:** [View the Live Dashboard ](https://divyachahal.shinyapps.io/s4119450_australia_extinction_crisis/)
 
 ## 🎯 Executive Project Summary
 While habitat loss dominates mainstream headlines, expert-validated ecological data reveals a deeper crisis. This interactive web application synthesises national conservation records to demonstrate that invasive species and diseases inflict the most severe harm per species, different taxonomic groups face entirely unique ecological enemies, and the majority of threatened fauna are battling multiple simultaneous threats.
